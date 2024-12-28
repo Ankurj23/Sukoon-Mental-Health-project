@@ -2,26 +2,9 @@ import React from 'react';
 
 const founders = [
   {
-    name: 'Ananya Shanker',
-    role: 'Front-end Team', 
-  
-    image: 'https://i.pinimg.com/564x/29/77/fe/2977fe836b3ea15ec686d5031006f9ef.jpg', // Replace with actual image file
-  },
-  {
-    name: 'Shaheera Fatima',
-    role: 'Front-end Team',
-    image: 'https://i.pinimg.com/236x/69/5c/3c/695c3cee049e454e65b9c90c6ae1a29f.jpg', // Replace with actual image file
-  },
-
-  {
-    name: 'Mansi Rawat',
-    role: 'Front-end & Back-end Team',
-    image: 'https://i.pinimg.com/236x/43/97/2e/43972ee941de6b988bebbc64741a1b5c.jpg', // Replace with actual image file
-  },
-  {
-    name: 'Aayushi',
-    role: 'Front-end & Back-end Team',
-    image: 'https://i.pinimg.com/564x/c3/0d/06/c30d0644771cbcb628019836ed319afc.jpg', // Replace with actual image file
+    name: 'Ankur Jauhari',
+    role: 'Full Stack Developer', 
+    image: 'https://media.licdn.com/dms/image/v2/D4E03AQGmc-ZEwEjMjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725437822409?e=2147483647&v=beta&t=Uca45eICb_GTjurjVE2ZxEr6yE2pcvG71MaWWGvnRvU',
   },
 ];
 
@@ -42,10 +25,11 @@ const Volunteer = () => {
           </div>
         ))}
       </div>
+      <div>
+        <h1>Healing takes time, and asking for help is a courageous step.</h1>
+      </div>
     </div>
   );
 };
 
 export default Volunteer;
-
-  

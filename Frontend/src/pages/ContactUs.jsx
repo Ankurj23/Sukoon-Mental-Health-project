@@ -46,19 +46,19 @@ const ContactUs = () => {
               <i className="fa fa-map-marker"></i>
             </a>
           </div>
-          <p>Jaypee Institute of Information Technology</p>
+          <p>ABES Engineering College, Ghaziabad</p>
         </div>
         <div className="address">
           <div className="icon">
             <i className="fa fa-phone"></i>
           </div>
-          <p>+91 xxxxxxxx67</p>
+          <p>+91 9761896129</p>
         </div>
         <div className="address">
           <div className="icon">
             <i className="fa fa-envelope"></i>
           </div>
-          <p>sukoon@gmail.com</p>
+          <p>ankurjauhari18@gmail.com</p>
         </div>
         <div className="social-icons">
           <a href="#" className="icon">
